@@ -20,11 +20,9 @@
 <a href="https://t.me/tursunniyazovhumoyunbek" target="__blank"><img src="https://img.shields.io/badge/-YouTube-082032?style=for-the-badge&logo=Youtube&logoColor=FF0000"></img></a>
 <a href="https://www.instagram.com/humoyunbek_tursunniyazov" target="__blank"><img src="https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F"></img></a>
 #
-<center>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humoyunbek2007)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humoyunbek2007)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=humoyunbek2007)](https://github.com/anuraghazra/github-readme-stats)
-
-</center>
