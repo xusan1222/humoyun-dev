@@ -2,8 +2,7 @@
 
 ### ⚙️ Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/8.2.0/simpleicons.svg" ></img>
-⚛RreactJS
+https://camo.githubusercontent.com/117efbfd8b406de72899c6ce35807215028d5da1e19b62f6135a6ab3fc88535b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3038323033323f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d23464543323630
 <br/>
 
 #
