@@ -21,9 +21,4 @@
 <a href="https://www.instagram.com/humoyunbek_tursunniyazov" target="__blank"><img src="https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F"></img></a>
 #
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humoyunbek-Tursunniyazov)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Humounbek-Tursunniyazov)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Humounbek-Tursunniyazov)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humoyunbek-Tursunniyazov&show_icons=true&theme=transparent)
