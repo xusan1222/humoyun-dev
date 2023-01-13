@@ -1,4 +1,5 @@
 ### Humoyunbek Tursunniyazov / Junior Web Developer
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;I'm+a+React+JS+Developer;I'm+a+VUE+JS+Developer;I'm+a+Django+Developer;I'm+a+Laravel+Developer)
 
 ### 🛠 Languages and Tools
 
@@ -21,4 +22,6 @@
 <a href="https://www.instagram.com/humoyunbek_tursunniyazov" target="__blank"><img src="https://img.shields.io/badge/-Instagram-082032?style=for-the-badge&logo=Instagram&logoColor=#E4405F"></img></a>
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humoyunbek-Tursunniyazov&show_icons=true&theme=transparent)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humoyunbek-Tursunniyazov&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Humoyunbek-Tursunniyazov&langs_count=8&theme=vue)](https://github.com/Humoyunbek-Tursunniyazov/github-readme-stats) 
