@@ -26,3 +26,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Humoyunbek-Tursunniyazov&show_icons=true&theme=vue)](https://github.com/Humoyunbek-Tursunniyazov/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Humoyunbek-Tursunniyazov&langs_count=8&theme=vue)](https://github.com/Humoyunbek-Tursunniyazov/github-readme-stats) 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mukhriddin-dev/count.svg" />
+</p>
